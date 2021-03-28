@@ -1,0 +1,139 @@
+#logcontent
+{
+	height: 300px;
+	width: 400px;
+	text-align: center;
+	color: #000033;
+	background-color: #e6f3ff;
+	border-style: outset;
+    border-width: 5px;
+	border-color: #80b3ff;
+	border-radius: 4px;
+	font-size: 18px;
+	font-family: times new roman;
+	font-weight: bold;
+    padding: 3px 3px 2px;
+    margin: 10px 400px 1px 450px;
+	opacity: 0.9;
+	overflow: hidden;
+}
+#logcontent:hover
+{
+	height: 300px;
+	width: 400px;
+	text-align: center;
+	color: #000033;
+	background-color: #e6f3ff;
+	border-style: outset;
+    border-width: 5px;
+	border-color: #80b3ff;
+	border-radius: 4px;
+	font-size: 18px;
+	font-family: times new roman;
+	font-weight: bold;
+    padding: 3px 3px 2px;
+    margin: 10px 400px 1px 450px;
+	opacity: 15;
+	overflow: hidden;
+}
+.bg
+{
+	background-image: url("img/login.jpg")  no-repeat;
+	background-size: cover;
+}
+h3 
+{
+	height: 8px;	
+	width: 400px;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 35px;
+	font-family: times new roman;
+}
+.textbox
+{
+	height: 40px;
+	width:	350px;
+	text-align: center;
+	color: #595959;
+	border-style: solid;
+	border-radius: 4px;
+	background-color: #f2f2f2;
+	font-size: 15px;
+	font-family: sans-serif;
+	margin: 10px 400px 10px 30px;
+	opacity: 15;
+}
+.textbox:hover
+{
+	height: 50px;
+	width:	350px;
+	text-align: center;
+	color: #404040;
+	border-style: solid;
+	border-radius: 4px;
+	background-color: #ffffff;
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin: 10px 400px 10px 30px;
+	opacity: 20;
+}
+.button
+{
+	height: 40px;
+	width:	350px;	
+	text-align: center;
+	border-radius: 10px;
+	background-color: #ccd9ff;
+	font-size: 15px;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin: 2px 400px 10px 30px;
+	opacity: 15;
+}
+.button:hover
+{
+	height: 50px;
+	width:	350px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #3366ff;
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin: 2px 400px 10px 30px;
+	opacity: 20;
+}
+.signup
+{
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	border-style: outset;
+    border-width: 5px;
+	border-color: #80b3ff;
+	background-color: #e6f3ff;
+	font-size: 18px;
+	font-family: times new roman;
+	font-weight: bold;
+	padding: 5px 3px 2px;
+	margin: 5px 400px 5px 450px;
+	opacity: 0.9;
+}
+.signup:hover
+{
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	border-style: outset;
+    border-width: 5px;
+	border-color: #80b3ff;
+	background-color: #e6f3ff;
+	font-size: 20px;
+	font-family: times new roman;
+	font-weight: bold;
+	padding: 5px 3px 2px;
+	margin: 5px 400px 5px 450px;
+	opacity: 20;
+}

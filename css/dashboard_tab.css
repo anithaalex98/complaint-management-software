@@ -1,0 +1,92 @@
+.complist
+{
+	border-style: outset;
+    border-width: 2px;
+	border-color: #4784c1;
+	border-radius: 4px;
+	background-color: #ebf0f5;
+	font-family: sans-serif;
+	margin: 10px 50px 50px 50px;
+	padding: 5px 5px 5px 5px;
+}
+
+.complist td
+{
+	text-align: center;
+	font-size: 15px;
+	width: 10%;
+	padding: 2px 2px 2px 2px;	
+	margin: 2px 2px 2px 2px;
+	background-color: #dce6dc;
+	border-width: 1px;
+	border-color: #6666ff;
+}
+
+.complist th
+{
+	font-size: 25px;
+	color: #003366;
+	width: 10%;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	background-color: #dce6dc;
+	border-style: ridge;
+	border-bottom-color: #6666ff;
+	border-width: 2px;
+	border-radius: 4px;
+}
+
+.complist .lb
+{
+	font-size: 18px;
+	text-align: center;
+	padding: 2px 2px 2px 2px;	
+	margin: 10px 10px 10px 10px;
+	background-color: #dce6dc;
+	border-style: ridge;
+	border-width: 1px;
+	border-color: #6666ff;
+	border-radius: 2px;
+}
+
+#ctitle,#ccat,#csubcat,#ctype,#cdate,#cstatus
+{
+	font-size: 15px;
+}
+
+.button
+{
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	background-color: #1a4775;
+	color: white;
+	font-weight: bold;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+.button:hover 
+{
+	background-color: #000066;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	width: 200px;
+	height: 40px;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+.button:active
+{
+	background: #219954;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+	width: 200px;
+	height: 40px;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}

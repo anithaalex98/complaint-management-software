@@ -1,0 +1,157 @@
+.tickettab
+{
+	border-style: outset;
+    border-width: 2px;
+	border-color: #4784c1;
+	border-radius: 4px;
+	background-color: #ebf0f5;
+	font-family: sans-serif;
+	margin: 80px 50px 50px 150px;
+	padding: 5px 5px 5px 5px;
+}
+
+.tickettab td
+{
+	margin: 20px 0px 20px 0px; 
+	padding: 10px 0px 10px 0px;
+}
+
+.tickettab th
+{
+	font-size: 25px;
+	color: #003366;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	background-color: #dce6dc;
+	border-style: ridge;
+	border-width: 2px;
+	border-bottom-color: #6666ff;
+	border-radius: 4px;
+}
+
+.tickettab .lb
+{
+	
+	font-weight: bold;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	background-color: #ebf0f5;
+	padding: 12px 0px 0px 80px;	
+	margin: 10px 0px 0px 10px;
+}
+
+.tickettab .ct
+{
+	font-weight: bold;
+	text-align: left;
+	width: 50%;
+	vertical-align: top;
+	background-color: #ebf0f5;
+	padding: 2px 0px 2px 0px;	
+	margin: 10px 0px 10px 0px;
+}
+
+.textbox
+{
+	font-size: 15px;
+	width: 200px;
+	height: 30px;
+	padding: 2px 2px 2px 2px;
+	margin: 5px 0px 5px 0px;
+}
+
+textarea
+{
+	margin-top: 20px;
+}
+
+#cat,#subcat,#ctype,#subcatd
+{
+	width: 200px;
+	height: 30px;
+	font-size: 15px;
+}
+
+.buttona
+{
+	width: 100px;
+	height: 30px;
+	font-size: 12px;
+	background-color: #1a4775;
+	color: white;
+	font-weight: bold;
+	margin: 5px 5px 5px 10px;
+}
+
+.buttona:hover 
+{
+	background-color: #000066;
+	color: white;
+	font-weight: bold;
+	font-size: 12px;
+	width: 100px;
+	height: 30px;
+	margin: 5px 5px 5px 10px;
+}
+
+.buttona:active
+{
+	background: #219954;
+	color: black;
+	font-weight: bold;
+	font-size: 12px;
+	width: 100px;
+	height: 30px;
+	margin: 5px 5px 5px 10px;
+
+}
+
+.button
+{
+	width: 200px;
+	height: 40px;
+	font-size: 15px;
+	background-color: #1a4775;
+	color: white;
+	font-weight: bold;
+	margin: 10px 10px 10px 10px;
+}
+
+.button:hover 
+{
+ 	background-color: #000066;
+  	color: white;
+ 	font-size: 18px;
+  	font-weight: bold;
+ 	margin: 10px 10px 10px 10px;
+ 	width: 200px;
+	height: 40px;
+}
+
+.button:active
+{
+	background: #219954;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.buttons
+{
+	text-align: center;
+}
+
+.cstatus
+{
+	width: 350px;
+	height: 80px;
+	font-size: 25px;
+	color: #051c33;
+	text-align: center;
+	margin: 10px 10px 10px 500px;
+	padding: 15px 15px 15px 15px;
+	font-family: sans-serif;
+	background-color: #dce6dc;
+}

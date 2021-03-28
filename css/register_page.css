@@ -1,0 +1,114 @@
+body
+{
+	background-image: url("img/registerbg.jpg");
+	background-size: cover;
+}
+.textbox
+{
+	overflow: hidden;
+	font-size: 15px;
+	padding: 2px 2px 2px 2px;
+	margin: 5px 0px 5px 0px;
+}
+.button
+{
+	width: 20%;
+	text-align: center;
+	background: #1a4775;
+	border: 2px solid black;
+	color: white;
+	padding: 2px;
+	font-size: 15px;
+	cursor: pointer;
+	margin: 0 0 0 20%;
+}
+.button:hover 
+{
+  background-color: #000066;
+}
+.button:active
+{
+	background: #219954;
+}
+
+th 
+{
+	width: 70%;
+	background-color: #b3b3ff;
+	border-style: ridge;
+    border-width: 2px;
+	border-bottom-color: #6666ff;
+	border-radius: 4px;
+}
+table
+{
+	border-style: outset;
+    border-width: 3px;
+	border-color: #0d3d6e;
+	border-radius: 4px;
+	background-color: #f2f5f2;
+	font-family: sans-serif;
+	margin: 20px 0 0 250px;
+	padding: 10px 10px 10px 10px;
+}
+th h3
+{   
+	float: left; 
+	font-size: 40px;
+	border-bottom: 3px solid #000066;
+	color: #003366;
+}
+td
+{	
+	font-weight: bold;
+	text-align: left;
+	vertical-align: bottom;
+	background-color: #f2f5f2;	
+}
+th, td
+{
+	padding: 2%;
+}
+.tologin
+{
+	float: left;
+	text-align: center;
+	float: left; 
+	font-size: 15px;
+	border-bottom: 3px solid #000066;
+	color: black;
+	border-radius: 4px;
+	background-color: #f2f5f2;
+	font-family: sans-serif;
+	width: 40%;
+	margin: 5px 0px 5px 220px;
+}
+.tologin:hover
+{
+	background-color: #e5e8e5;
+}
+.tologin a:link, .tologin a:visited
+{
+	color: #003366;
+	text-decoration: none;
+	display: inline-block;
+	width: 30%;
+}
+.tologin a:hover
+{
+	color: #0e088a;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: underline;
+	display: inline-block;
+	width: 30%;
+}
+.tologin a:active
+{
+	color: #219954;
+	font-weight: bold;
+	font-weight: bold;
+	text-decoration: underline;
+	display: inline-block;
+	width: 30%;
+}
